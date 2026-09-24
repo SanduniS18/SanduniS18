@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:22c55e&height=200&section=header&text=Sanduni%20Sathsarani&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/SanduniS18/SanduniS18/main/banner.svg" alt="Sanduni Sathsarani banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Always+Learning%2C+Always+Building;BSc+(Hons)+IT+%40+University+of+Kelaniya;Passionate+about+Tech%2C+AI+%26+Innovation" alt="typing" />
 
@@ -57,10 +57,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SanduniS18&show_icons=true&theme=react&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniS18&layout=compact&theme=react&hide_border=true" alt="top languages" />
+![Followers](https://img.shields.io/github/followers/SanduniS18?style=for-the-badge&logo=github&color=22c55e&labelColor=0f766e)
+![Profile Views](https://komarev.com/ghpvc/?username=SanduniS18&style=for-the-badge&color=22c55e&label=PROFILE+VIEWS)
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=SanduniS18&theme=react&hide_border=true" alt="streak" />
 
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanduniS18&theme=react-dark&hide_border=true&area=true" alt="contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/22c55e/SanduniS18" alt="contribution graph" width="100%" />
 
 </div>
 
@@ -82,6 +82,5 @@
 
 ⭐ *Thanks for visiting my profile!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0f766e&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
